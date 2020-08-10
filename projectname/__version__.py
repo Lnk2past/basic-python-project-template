@@ -1,0 +1,6 @@
+__title__ = 'projectname'
+__description__ = 'A sample project structure.'
+__url__ = 'https://github.com/Lnk2past/basic-python-project-template'
+__version__ = '2020.1.0'
+__author__ = 'Lnk2past'
+__license__ = 'MIT'
